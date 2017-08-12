@@ -1,4 +1,5 @@
-# SpigotPE
+# ExplodingPE
+# Folk Of
 <img src="https://github.com/caspervanneck/spigotpe/blob/master/spigotpe.png">
 
 ### We accept pull request so what are you waiting for
