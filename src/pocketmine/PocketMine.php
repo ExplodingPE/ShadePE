@@ -74,7 +74,7 @@ namespace pocketmine {
 
 	const VERSION = '1.0';
 	const API_VERSION = "1.12.0";
-	const CODENAME = "Rare-Diamond";
+	const CODENAME = "ShadeBeta_PMMP Version 3.0 Folked To SpigotPE";
 	const MINECRAFT_VERSION = "v1.1.5";
 	const MINECRAFT_VERSION_NETWORK = "v1.1.5";
 
@@ -452,7 +452,7 @@ namespace pocketmine {
 	}
 
 	if(\Phar::running(true) === ""){
-		$logger->warning("Non-packaged SpigotPE installation detected, do not use on production.");
+		$logger->warning("Non-packaged ShadePE installation detected, do not use on production.");
 	}
 
 	ThreadManager::init();
